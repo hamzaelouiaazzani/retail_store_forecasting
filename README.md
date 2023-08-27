@@ -19,7 +19,7 @@ For all approaches—benchmarking, statistical, and ML-based—we maintain a con
 
 Performance evaluation is carried out using MAE and MSE metrics. Detailed results are compiled into Excel files for clear visualization and analysis:
 
-- `MAE_models_stores.csv` and `MSE_models_stores.csv`: These files provide a comprehensive overview of losses per store for each model, enabling you to delve into the specific performance characteristics.
+- `MAE_models_stores.csv` and `MSE_models_stores.csv`: These files provide my resluts of losses per store for each model, enabling you to delve into the specific performance characteristics of each model.
 
 - `overall_losses.csv`: Here, we present the aggregate losses across all available stores, allowing for a holistic view of the forecasting accuracy achieved.
 
