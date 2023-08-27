@@ -4,6 +4,7 @@ Welcome to the **Retail Store Sales Forecasting** repository! This project dives
 
 ## Notebooks Overview
 
+
 This repository contains three notebooks, each focusing on a distinct aspect of the forecasting process:
 
 1. **data_exploration_&_analysis.ipynb**: In this notebook, we conduct an extensive study of the provided dataset, exploring and analyzing its intricate details.
